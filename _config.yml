@@ -1,0 +1,7 @@
+title: "AI Creator Guides"
+description: "The best MCP servers for content creators in 2026: which connectors to add to Claude, ChatGPT or Cursor for video, design, voice, planning and scheduling."
+tagline: "Curated List (Updated November 2026)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
